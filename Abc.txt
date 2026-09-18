@@ -1,1 +1,6 @@
-welccome
+<<<<<<< HEAD
+welccome to ciit github
+=======
+ welcome ciit institute devops engineer hub
+ 
+>>>>>>> 7ef43e4bfd6009bec1fe0bc6e01400875bd055b8
